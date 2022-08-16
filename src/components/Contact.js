@@ -57,6 +57,10 @@ export default function Contact() {
                 dzuhriandika@email.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+                LINKEDIN
+              </h2>
+              <a href="https://www.linkedin.com/in/dzuhri-andika-3a310b180/" className="leading-relaxed">Dzuhri Andika</a>
+              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
               <p className="leading-relaxed">6289-5388-922297</p>
